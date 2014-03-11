@@ -1,0 +1,11 @@
+[submodule "rhtml"]
+	path = rhtml
+	url = https://github.com/eschulte/rhtml.git
+
+[submodule "rinari"]
+	path = rinari
+	url = https://github.com/eschulte/rinari.git
+
+[submodule "yaml-mode"]
+	path = yaml-mode
+	url = https://github.com/yoshiki/yaml-mode.git
